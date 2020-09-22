@@ -1,0 +1,19 @@
+{
+  "name": "pandora-cas-card",
+  "version": "0.1",
+  "description": "Custom Lovelace Card for Pandora CAS",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turbulator/pandora-cas-card.git"
+  },
+  "author": "@turbulator",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turbulator/pandora-cas-card/issues"
+  },
+  "homepage": "https://github.com/turbulator/pandora-cas-card.git/blob/master/README.md",
+  "devDependencies": {
+  }
+}
